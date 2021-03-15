@@ -14,6 +14,6 @@
 <a href="https://www.instagram.com/highlupin/">
   <img alt="Instagram" src="img/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/ron-hsien-chang-20a4b91b2/">
+<a href="https://www.linkedin.com/in/Ron-Hsien-Chang/">
   <img alt="LinkedIn" src="img/linkin.png" />
 </a>
